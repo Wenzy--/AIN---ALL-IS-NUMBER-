@@ -38,5 +38,5 @@
 * author: Wenzy
 * mail:ziyangwen@gmail.com
 * weibo:weibo.com/wenziyang
-* first demo,some BUGS （欢迎交流）
+* first demo,some BUGS:) 
 
